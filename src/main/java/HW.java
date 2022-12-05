@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-import static org.apache.commons.lang3.StringUtils.swapCase;
-import static org.apache.commons.lang3.StringUtils.reverse;
+import static org.apache.commons.lang3.StringUtils.*;
+
 
 
 public class HW {
